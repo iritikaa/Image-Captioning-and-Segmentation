@@ -7,7 +7,8 @@
 In this project, I'll create a neural network architecture consisting of both CNNs (Encoder) and LSTMs (Decoder) to automatically generate captions from images.
 The network will be trained on the Microsoft Common Objects in COntext [(MS COCO)](http://cocodataset.org/#home) dataset. The image captioning model is displayed below.
 
-![Image Captioning Model](images/cnn_rnn_model.png?raw=true) [Image source](https://arxiv.org/pdf/1411.4555.pdf)
+![Image Captioning Model](<img width="1552" height="614" alt="cnn_rnn_model" src="https://github.com/user-attachments/assets/03fcd849-d181-41d9-9929-1cd3268b7337" />
+)g [Image source](https://arxiv.org/pdf/1411.4555.pdf)
 
 After training the network, I will test the network on novel images!
 
